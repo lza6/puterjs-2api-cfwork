@@ -1,0 +1,6 @@
+# Cloudflare Worker 项目的名称
+name = "puterjs-2api-cfwork"
+
+main = "worker.js"
+
+compatibility_date = "2025-11-21"
